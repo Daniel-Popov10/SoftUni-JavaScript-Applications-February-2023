@@ -1,6 +1,5 @@
 # SoftUni-JavaScript-Applications-February-2023
 
-## This repository holds solutions for coding problems in the SoftUni JavaScript Applications Course for February 2023
 ## The course covers the following topics:
 
 1. HTTP and REST services
